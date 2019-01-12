@@ -1,0 +1,26 @@
+{
+  "name": "bamazonSQLNode",
+  "version": "1.0.0",
+  "description": "bamazon database using sql and node",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickvenn/bamazonSQLNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickvenn/bamazonSQLNode/issues"
+  },
+  "homepage": "https://github.com/nickvenn/bamazonSQLNode#readme"
+}

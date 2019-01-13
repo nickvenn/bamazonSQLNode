@@ -78,7 +78,7 @@ function start() {
         }
         else {
           // bid wasn't high enough, so apologize and start over
-          console.log("Your bid was too low. Try again...");
+          console.log("Not enough items in storage!");
           start();
         }
       });

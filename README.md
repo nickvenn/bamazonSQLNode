@@ -1,11 +1,25 @@
 # bamazonSQLNode
-bamazon database using sql and node
-<br>
-first Prompt:
-![alt text](https://github.com/nickvenn/bamazonSQLNode/blob/master/Prompt01.PNG)
-second Prompt:
-![alt text](https://github.com/nickvenn/bamazonSQLNode/blob/master/Prompt02.PNG)
-successful purchase
-![alt text](https://github.com/nickvenn/bamazonSQLNode/blob/master/Prompt03Success.PNG)
-bad purchase:
-![alt text](https://github.com/nickvenn/bamazonSQLNode/blob/master/Prompt03Bad.PNG)
+# About / Synopsis
+
+This app queries a sql database that is storing pre made products along with prices and quantities.  Based upon the user entry, they can change the quantity of any product unless the quantity total has reached 0.
+
+# Table of contents
+
+-Git Hub link: https://github.com/nickvenn/bamazonSQLNode.git<br>
+
+# Installation
+
+- npm install mysql
+- npm install inquirer
+- npm install body-parser
+
+## Screenshots
+## first prompt:
+![Screenshot](Prompt01.PNG)
+## second prompt:
+![Screenshot](Prompt02.PNG)
+## succesful purchase prompt:
+![Screenshot](Prompt03Success.PNG)
+## bad purchase prompt:
+![Screenshot](Prompt03Bad.PNG)
+

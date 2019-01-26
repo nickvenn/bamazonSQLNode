@@ -13,6 +13,9 @@ This app queries a sql database that is storing pre made products along with pri
 - npm install inquirer
 - npm install body-parser
 
+# sample:
+-node bamazonCustomer.js
+<br>
 ## Screenshots
 ## first prompt:
 ![Screenshot](Prompt01.PNG)
